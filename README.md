@@ -11,7 +11,7 @@ O DatabaseConverter é uma aplicação de linha de comando que converte bancos d
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/DatabaseConverter.git
+   git clone https://github.com/tetri/DatabaseConverter.git
    ```
 
 2. Navegue até o diretório do projeto:
